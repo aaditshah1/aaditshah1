@@ -18,10 +18,6 @@ I'm a senior at the University of Maryland, College Park, studying Computer Scie
 - **Machine Learning & Data Science:** PyTorch, NumPy, Pandas, Matplotlib, scikit-learn, OpenCV, YOLOv8, LangChain, Natural Language Processing, PyTesseract, EasyOCR.
 - **Tools & Frameworks:** SAP, Flutter, Git, Unix/Linux, AWS, LaTeX, Jupyter, VS Code, n8n.
 
-## 📈 GitHub Stats
-![Aadit's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaditshah1&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditshah1&layout=compact&hide_border=true)
-
 ## 💍 Get in Touch
 - **Email:** aaditshah644@gmail.com
 - **LinkedIn:** [linkedin.com/in/aadit-shah](https://www.linkedin.com/in/aadit-shah/)
